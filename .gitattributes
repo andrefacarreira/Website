@@ -1,2 +1,56 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Home</title>
+<link rel="stylesheet" type="text/css" href="Home CSS.css">
+
+</head>
+<body>
+
+<h1>André Carreira</h1>
+
+<div class="topnav">
+  <a class="active" href="Home CSS.html">Home</a>
+  <a href="Drawings.html">Drawings</a>
+  <a href="Models.html">3D models</a>
+  <a href="Contact.html">Contact</a>
+  <a href="About.html">About</a>
+</div>
+
+<h2> </h2>
+
+<div class='wrappercenter'>
+    <div class='centered'>
+    	<img src="Bola a refletir.png" alt="Refletance test" height= 97.7% width= 97.7%>
+    </div>
+</div>
+
+<div class='first_row'>
+	<div class='wrapperleft'>
+		<div class='left'>
+        	<h2>About</h2>
+       		<p>This website was made showcase my drawings and 3D models.<p>
+        	<p>My name is André Carreira and I'm 16 still in school.<p>
+		</div>
+	</div>
+	<div class='wrapperright'>
+		<div class='right'>
+        	<h2>About</h2>
+       		<p>This website was made showcase my drawings and 3D models.<p>
+        	<p>My name is André Carreira and I'm 16 still in school.<p>
+		</div>
+	</div>
+</div>
+
+<p class="split-para"> <h2>About</h2>
+       		<p>This website was made showcase my drawings and 3D models.<p>
+        	<p>My name is André Carreira and I'm 16 still in school.<p> <span> <h2>About</h2>
+       		<p>This website was made showcase my drawings and 3D models.<p>
+        	<p>My name is André Carreira and I'm 16 still in school.<p> </span></p>
+
+</body>
+</html>
